@@ -2,6 +2,7 @@
 
 UAParser from JavaScript
 
+[![pub package](https://img.shields.io/pub/v/ua_parser_js.svg)](https://pub.dev/packages/ua_parser_js)
 [![](https://img.shields.io/npm/v/ua-parser-js.svg)](https://www.npmjs.com/package/ua-parser-js)
 [![](https://img.shields.io/npm/dw/ua-parser-js.svg)](https://www.npmjs.com/package/ua-parser-js)
 [![](https://data.jsdelivr.com/v1/package/npm/ua_parser/badge)](https://www.jsdelivr.com/package/npm/ua_parser)
