@@ -1,4 +1,8 @@
 
+## [1.0.1]
+
+* update repository url.
+
 ## [1.0.0]
 
-* ViewModelProvider initial release.
+* UAParser initial release.

@@ -1,9 +1,9 @@
 name: ua_parser_js
 description: UAParser from JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data with relatively small footprint (~17KB minified, ~6KB gzipped) that can be used either in browser (client-side) or node.js (server-side).
-homepage: https://github.com/wittyneko/dart_npm_define/ua_parser_js
-repository: https://github.com/wittyneko/dart_npm_define/ua_parser_js
+homepage: https://github.com/wittyneko/dart_npm_define
+repository: https://github.com/wittyneko/dart_npm_define
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
